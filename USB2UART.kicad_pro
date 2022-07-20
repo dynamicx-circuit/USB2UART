@@ -436,16 +436,16 @@
       ""
     ],
     [
-      "863ee6bd-9a8e-49fb-84d6-8d00fe76baf1",
-      "STM1_CAN"
+      "c1091f2c-62d0-46ef-9c1c-bcb2a9bf0032",
+      "UART1"
     ],
     [
       "4d9859dd-6831-4569-841e-8b44f9c9ad5e",
       "PWR"
     ],
     [
-      "9b90d3c5-a48b-42a5-8d7c-de34d4b66dbc",
-      "STM2_CAN"
+      "1cb02ec6-1f53-4864-9517-5cc91087a720",
+      "UART2"
     ],
     [
       "a792ca19-b88c-4678-aab7-ce759f9da79c",
