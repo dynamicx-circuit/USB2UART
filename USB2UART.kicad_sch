@@ -885,7 +885,7 @@
     (in_bom yes) (on_board yes)
     (uuid 5c0ed9d4-4fd9-4462-8972-42835e322755)
     (property "Reference" "J5" (id 0) (at 180.594 127 0))
-    (property "Value" "Conn_01x03" (id 1) (at 179.832 123.7866 0)
+    (property "Value" "Conn_01x04" (id 1) (at 179.832 123.7866 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Footprint" "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal" (id 2) (at 177.8 121.92 0)
@@ -1058,7 +1058,7 @@
     (in_bom yes) (on_board yes)
     (uuid d5c10d34-5ae0-4a6b-bad8-d4ed4b393fc8)
     (property "Reference" "J4" (id 0) (at 180.594 114.3 0))
-    (property "Value" "Conn_01x03" (id 1) (at 179.832 111.0866 0)
+    (property "Value" "Conn_01x04" (id 1) (at 179.832 111.0866 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Footprint" "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal" (id 2) (at 177.8 109.22 0)
@@ -1563,10 +1563,10 @@
       (reference "J3") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal")
     )
     (path "/d5c10d34-5ae0-4a6b-bad8-d4ed4b393fc8"
-      (reference "J4") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal")
+      (reference "J4") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal")
     )
     (path "/5c0ed9d4-4fd9-4462-8972-42835e322755"
-      (reference "J5") (unit 1) (value "Conn_01x03") (footprint "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal")
+      (reference "J5") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal")
     )
     (path "/71b07c00-0314-4dfd-92cb-aca2c9812e1b/e5588e62-caec-4581-8753-afa8055836e7"
       (reference "Q1") (unit 1) (value "S8050") (footprint "Package_TO_SOT_SMD:SOT-23")
