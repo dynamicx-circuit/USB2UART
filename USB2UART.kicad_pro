@@ -353,7 +353,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USB2XXX.kicad_pro",
+    "filename": "USB2UART.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -386,7 +386,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "USB2UART.dsn",
       "step": "",
       "vrml": ""
     },
