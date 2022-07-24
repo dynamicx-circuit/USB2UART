@@ -1503,10 +1503,10 @@
       (reference "#PWR0131") (unit 1) (value "GND") (footprint "")
     )
     (path "/c1091f2c-62d0-46ef-9c1c-bcb2a9bf0032/61d3549c-25d4-40df-a42d-d209aa2d8408"
-      (reference "C1") (unit 1) (value "~") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/1cb02ec6-1f53-4864-9517-5cc91087a720/61d3549c-25d4-40df-a42d-d209aa2d8408"
-      (reference "C2") (unit 1) (value "~") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C2") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/4d9859dd-6831-4569-841e-8b44f9c9ad5e/806fea48-815f-4faf-8e78-b42a718d1ffe"
       (reference "C9") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -1581,10 +1581,10 @@
       (reference "R13") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/c1091f2c-62d0-46ef-9c1c-bcb2a9bf0032/7f997fbc-8174-4972-bd2e-107e4e18711c"
-      (reference "U1") (unit 1) (value "~") (footprint "Package_SO:MSOP-10_3x3mm_P0.5mm")
+      (reference "U1") (unit 1) (value "CH340E") (footprint "Package_SO:MSOP-10_3x3mm_P0.5mm")
     )
     (path "/1cb02ec6-1f53-4864-9517-5cc91087a720/7f997fbc-8174-4972-bd2e-107e4e18711c"
-      (reference "U2") (unit 1) (value "~") (footprint "Package_SO:MSOP-10_3x3mm_P0.5mm")
+      (reference "U2") (unit 1) (value "CH340E") (footprint "Package_SO:MSOP-10_3x3mm_P0.5mm")
     )
     (path "/4d9859dd-6831-4569-841e-8b44f9c9ad5e/2c4823a2-abdc-40c8-a6e9-681d5bf9251b"
       (reference "U3") (unit 1) (value "HX9193") (footprint "Package_TO_SOT_SMD:SOT-23-5_HandSoldering")
